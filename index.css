@@ -1,0 +1,2892 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:whitesmoke;
+}
+.main{
+    width: 100%;
+    height: 52vh;
+    background-color: rgb(0,126,229);
+    background-size: cover;
+}
+.navber{
+    width: 100%;
+    height: 70px;
+}
+.icon{
+    width: 100%;
+
+}
+.logo{
+    height: 11vh;
+}
+.logo img{
+    width: 15%;
+    margin-top: 10px;
+    margin-left: 100px;
+    height: 11vh;
+}
+/* searchbox start here */
+.searchbox{
+    width: 100px;
+}
+.dropdown1{
+    margin-left:325px ;
+    margin-top: -42px;
+}
+#box1{
+    width: 160px;
+    height: 40px;
+    border-radius: 6px;
+}
+/* searchbox ends here */
+
+/* nav list start here */
+.nav{
+    margin-left: 500px;
+    margin-top: -27px;
+    width:650px;
+    height: 14vh;
+}
+.nav ul{
+    display: flex;
+    float: right;
+    gap: 40px;
+}
+.nav ul li{
+    list-style: none;
+    font-size: 17px; 
+}
+.nav ul li a{
+    font-size: 17px;
+    text-decoration: none;
+    font-family: Arial,;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(253,254,255);
+}
+/* nav list ends here */
+
+/* Hide checkbox */
+#menu-toggle{
+    display: none;
+}
+
+/* hide hamburger on desktop */
+.menu-icon{
+    display: none;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+/* home start here */
+.Home{
+    margin-left: 115px;
+    margin-top: -35px;
+}
+.Home h2{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+.Home h3{
+    margin-top: 60px;
+    font-size: 24px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+/* home ends here */
+
+/* image start here */
+.image{
+    margin-left: 115px;
+}
+.image img{
+    margin-top: 50px;
+}
+.image p{
+    margin-left: 120px;
+    margin-top: -130px;
+    font-size: 19px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+.image h4{
+    margin-left: 120px;
+    margin-top: 25px;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+    color:rgb(0,126,229) ;
+}
+/* image ends here */
+
+/* image2 start here */
+.image2{
+    width: 1115px;
+    height: 17vh;
+    margin-left: 115px;
+    margin-top: 12px;
+    background-color: black;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
+}
+.image2 img{
+    margin-left: 58px;
+    margin-top: 5px;
+}
+.img1{
+    width: 250px;
+    height: 13vh;
+}
+.img2{
+    width: 250px;
+    height: 13vh;
+}
+.bttn{
+    margin-left: 860px;
+    margin-top: -65px;
+}
+.bttn button{
+    width: 155px;
+    height: 45px;
+    background-color: rgb(0,126,229) ;
+    border-radius: 10px;
+}
+.bttn button a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, ;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+/* image2 ends here */
+
+/* manu start here */
+.manu{
+    width: 100%;
+    height: 49vh;
+}
+.jump{
+    width: 50px;
+    margin-left: 115px;
+}
+.jump h2{
+    width: 100px;
+   margin-top: 70px;
+   font-size: 21px;
+   font-family: Arial, Helvetica,;
+   font-weight: bold;
+   font-style: normal;
+}
+.dropdown2{
+    margin-left: 95px;
+    margin-top: -30px;
+}
+#box2{
+    height: 35px;
+    width: 250px;
+    border-radius: 5px;
+}
+.Best{
+    height: 14vh;
+    margin-left: 115px;
+    margin-top: 70px;
+}
+.Best h3{
+    font-size: 35px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.Best p{
+    margin-top: 45px;
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+}
+/* manu ends here */
+
+/* card 1 styling start here */
+.img-fluids{
+    width: 500px;
+    height:77vh ;
+    margin-left: 115px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body{
+    width: 600px;
+    height: 74vh;
+    margin-left: 615px;
+    margin-top: -492px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned{
+    width: 510px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned h2{
+    width: 150px;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Redesigned p{
+    width: 150px;
+    padding-left: 20px;
+    font-size: 30px;
+    color: rgb(0,126,229);
+}
+.Redesigned h3{
+    margin-left: 410px;
+    margin-top: -90px;
+}
+.Redesigned h3 b{
+    font-size: 35px;
+}
+.Redesigned h4{
+    margin-left: 410px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan p{
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan h2{
+    margin-top: 25px;
+}
+.Nissan h2 a{
+    font-size: 17px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan hr{
+    width: 108%;
+    margin-top: 19px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 96px;
+}
+.MSRP h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP h3{
+    margin-left: 445px;
+    margin-top: -60px;
+    font-weight: lighter;
+}
+.MSRP h3 b{
+    margin-left: 20px;
+}
+.MSRP h4{
+    margin-left: 470px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox{
+    height: 14vh;
+    margin-left: 475px;
+    margin-top: 10px;
+}
+.checkbox input{
+    font-size: 20px;
+}
+.checkbox label{
+    font-size: 15px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card1 styling ends here */
+
+/* card 1 small styling start here */
+.card-small{
+    width: 440px;
+    height: 57vh;
+}
+.small{
+    width: 440px;
+    height: 60vh;
+    margin-left: 117px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in h3{
+    margin-top: 10px;
+}
+.Redesigned-in h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h0 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP1{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP1 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP1 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP1 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP1 h3 b{
+    margin-left: 20px;
+}
+.MSRP1 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs0{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs0 input{
+    font-size: 20px;
+}
+.checkboxs0 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 1 small styling ends */
+
+/* 2nd card 1 small styling start here */
+.card-small2{
+    width: 440px;
+    height: 57vh;
+}
+.small2{
+    width: 440px;
+    height: 60vh;
+    margin-left: 600px;
+    margin-top: -360px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager2 img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager2 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes2{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in2 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 h3{
+    margin-top: 10px;
+}
+.Redesigned-in2 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h02 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP12{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP12 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP12 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP12 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP12 h3 b{
+    margin-left: 20px;
+}
+.MSRP12 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs02{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs02 input{
+    font-size: 20px;
+}
+.checkboxs02 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn02{
+    width: 100px;
+    height: 14vh;
+    margin-top: 20px;
+}
+.buttn02 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 275px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn02 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+/* 2nd card 1 small styling ends */
+
+
+/* card 2 styling start here */
+.card2{
+    margin-top: 120px;
+}
+.img-fluids2{
+    width: 500px;
+    height:77vh ;
+    margin-left: 115px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body2{
+    width: 600px;
+    height: 74vh;
+    margin-left: 615px;
+    margin-top: -492px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned2{
+    width: 510px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned2 h2{
+    width: 150px;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Redesigned2 p{
+    width: 150px;
+    padding-left: 20px;
+    font-size: 30px;
+    color: rgb(0,126,229);
+}
+.Redesigned2 h3{
+    margin-left: 410px;
+    margin-top: -90px;
+}
+.Redesigned2 h3 b{
+    font-size: 35px;
+}
+.Redesigned2 h4{
+    margin-left: 410px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan2{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan2 p{
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan2 h2{
+    margin-top: 25px;
+}
+.Nissan2 h2 a{
+    font-size: 17px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan2 hr{
+    width: 108%;
+    margin-top: 19px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP2{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 96px;
+}
+.MSRP2 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP2 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP2 h3{
+    margin-left: 445px;
+    margin-top: -60px;
+    font-weight: lighter;
+}
+.MSRP2 h3 b{
+    margin-left: 20px;
+}
+.MSRP2 h4{
+    margin-left: 470px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox2{
+    height: 14vh;
+    margin-left: 475px;
+    margin-top: 10px;
+}
+.checkbox2 input{
+    font-size: 20px;
+}
+.checkbox2 label{
+    font-size: 15px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 2 styling ends here */
+
+/* card 2 small styling start here */
+.card-small02{
+    width: 440px;
+    height: 57vh;
+}
+.small02{
+    width: 440px;
+    height: 60vh;
+    margin-left: 117px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager02 img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager02 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes02{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in02 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 h3{
+    margin-top: 10px;
+}
+.Redesigned-in02 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h002 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP102{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP102 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP102 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP102 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP102 h3 b{
+    margin-left: 20px;
+}
+.MSRP102 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs002{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs002 input{
+    font-size: 20px;
+}
+.checkboxs002 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 2 small styling ends */
+
+/* 2nd card 2 small styling start here */
+.card-small3{
+    width: 440px;
+    height: 57vh;
+}
+.small3{
+    width: 440px;
+    height: 60vh;
+    margin-left: 600px;
+    margin-top: -360px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager3 img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager3 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes3{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in3 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 h3{
+    margin-top: 10px;
+}
+.Redesigned-in3 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h03 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP13{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP13 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP13 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP13 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP13 h3 b{
+    margin-left: 20px;
+}
+.MSRP13 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs03{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs03 input{
+    font-size: 20px;
+}
+.checkboxs03 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn03{
+    width: 100px;
+    height: 14vh;
+    margin-top: 20px;
+}
+.buttn03 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 275px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn03 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+/* 2nd card 2 small styling ends */
+
+
+/* card 3 styling start here */
+.cards3{
+    margin-top: 120px;
+}
+.img-fluids3{
+    width: 500px;
+    height:77vh ;
+    margin-left: 115px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body3{
+    width: 600px;
+    height: 74vh;
+    margin-left: 615px;
+    margin-top: -492px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned3{
+    width: 510px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned3 h2{
+    width: 150px;
+    font-size: 15px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+.Redesigned3 p{
+    width: 150px;
+    padding-left: 20px;
+    font-size: 30px;
+    color: rgb(0,126,229);
+}
+.Redesigned3 h3{
+    margin-left: 410px;
+    margin-top: -90px;
+}
+.Redesigned3 h3 b{
+    font-size: 35px;
+}
+.Redesigned3 h4{
+    margin-left: 410px;
+    margin-top: 5px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan3{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan3 p{
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan3 h2{
+    margin-top: 25px;
+}
+.Nissan3 h2 a{
+    font-size: 17px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan3 hr{
+    width: 108%;
+    margin-top: 19px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP3{
+    width: 510px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 96px;
+}
+.MSRP3 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP3 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP3 h3{
+    margin-left: 445px;
+    margin-top: -60px;
+    font-weight: lighter;
+}
+.MSRP3 h3 b{
+    margin-left: 20px;
+}
+.MSRP3 h4{
+    margin-left: 470px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox3{
+    height: 14vh;
+    margin-left: 475px;
+    margin-top: 10px;
+}
+.checkbox3 input{
+    font-size: 20px;
+}
+.checkbox3 label{
+    font-size: 15px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 3 styling ends here */
+
+
+/* card 3 small styling start here */
+.card-small03{
+    width: 440px;
+    height: 57vh;
+}
+.small03{
+    width: 440px;
+    height: 60vh;
+    margin-left: 117px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager03 img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager03 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes03{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in03 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 h3{
+    margin-top: 10px;
+}
+.Redesigned-in03 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h003 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP103{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP103 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP103 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP103 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP103 h3 b{
+    margin-left: 20px;
+}
+.MSRP103 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs003{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs003 input{
+    font-size: 20px;
+}
+.checkboxs003 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 3 small styling ends */
+
+/* 2nd card 3 small styling start here */
+.card-small4{
+    width: 440px;
+    height: 57vh;
+}
+.small4{
+    width: 440px;
+    height: 60vh;
+    margin-left: 600px;
+    margin-top: -360px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager4 img{
+    width: 220px;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager4 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes4{
+    width: 200px;
+    margin-left: 255px;
+    margin-top: -155px;
+}
+.Redesigned-in4 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 h3{
+    margin-top: 10px;
+}
+.Redesigned-in4 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h04 hr{
+    width: 400px;
+    margin-left: 10px;
+    margin-top: 40px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP14{
+    width: 510px;
+    height: 14vh;
+    margin-left: 19px;
+    margin-top: 20px;
+}
+.MSRP14 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP14 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP14 h3{
+    margin-left: 280px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP14 h3 b{
+    margin-left: 20px;
+}
+.MSRP14 h4{
+    margin-left: 305px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs04{
+    margin-left: 320px;
+    margin-top: 5px;
+}
+.checkboxs04 input{
+    font-size: 20px;
+}
+.checkboxs04 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn04{
+    width: 100px;
+    height: 14vh;
+    margin-top: 20px;
+}
+.buttn04 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 275px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn04 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+
+.Best04{
+    height: 25vh;
+    margin-left: 117px;
+    margin-top: 100px;
+}
+.Best04 h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.Best04 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+}
+.Email04{
+    width: 100px;
+    margin-left: 117px;
+    margin-top: -70px;
+}
+.Email04 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Email04 input{
+    height: 35px;
+   border-bottom-left-radius: 10px;
+   border-top-left-radius: 10px;
+    border-right: 5px;
+    border-width: 2px;
+}
+.sign04{
+    width: 100px;
+    margin-left: 198px;
+    margin-top: -39px;
+}
+.sign04 button{
+    height:39px ;
+    border-left: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(21,97,212);
+}
+.sign04 button a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+    color: white;
+}
+/* 2nd card 3 small styling ends */
+
+
+/* manu ends here */
+
+@media(max-width:768px){
+    *{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color:whitesmoke;
+}
+.main{
+    width: 100%;
+    height: 61vh;
+    background-color: rgb(0,126,229);
+    
+}
+.navber{
+    width: 100%;
+    height: 70px;
+}
+.icon{
+    width: 100%;
+
+}
+.logo{
+    height: 11vh;
+}
+.logo img{
+    width: 30%;
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 11vh;
+}
+
+/* searchbox start here */
+.searchbox{
+    width: 100px;
+}
+.dropdown1{
+    margin-left:135px ;
+    margin-top: -42px;
+}
+#box1{
+    width: 235px;
+    height: 40px;
+    border-radius: 6px;
+}
+/* searchbox ends here */
+
+/* nav list start here */
+.menu-icon{
+    width: 30px;
+    display:block ;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.nav{
+    max-width: fit-content;
+    background-position: left;
+    width: 50px;
+    display: block;
+}
+.nav ul{
+    position: fixed;
+    top: 0;
+    right: -250px;
+    height: 65vh;
+    width: 250px;
+    background: #333;
+    flex-direction: column;
+    padding-top: 80px;
+    gap: 30px;
+    transition: right 0.3s ease;
+    border-radius: 15px;
+}
+.nav ul li{
+    width: 50x;
+    height: 30px;
+    margin-top: -10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 20px ;
+    border-radius: 10px;
+    background-color: rgb(0,126,229)
+}
+#menu-toggle:checked ~ .nav ul{
+    right: 0;
+}
+.nav ul li a{
+    font-size: 23px;
+    text-decoration: none;
+    font-family: Arial,;
+    font-style: normal;
+    font-weight: bold;
+    color: rgb(253,254,255);
+}
+/* nav list ends here */
+
+/* home start here */
+.Home{
+    margin-left: 17px;
+    margin-top: -35px;
+}
+.Home h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+.Home h3{
+    margin-top: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+/* home ends here */
+
+/* image start here */
+.image{
+    width: 50%;
+    margin-left: 15px;
+}
+.image img{
+    width: 100px;
+    height: 27vh;
+    margin-top: 40px;
+}
+.image p{
+    width: 270px;
+    margin-left: 116px;
+    margin-top: -192px;
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+.image h4{
+    width: 200px;
+    margin-left: 120px;
+    margin-top: 16px;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+    color:rgb(0,126,229) ;
+}
+/* image ends here */
+
+/* image2 start here */
+.image2{
+    width: 400px;
+    height: 15vh;
+    margin-left: 15px;
+    margin-top: 1px;
+    background-color: black;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 20px;
+}
+.image2 img{
+    width: 80px;
+    margin-left: 25px;
+    margin-top: -5px;
+}
+.img1{
+    width: 80px;
+    height: 11vh;
+}
+.img2{
+    width: 100px;
+    height: 10h;
+    padding-top: 10px;
+}
+.bttn{
+    margin-left: 287px;
+    margin-top:-9px;
+}
+.bttn button{
+    width: 110px;
+    height: 45px;
+    background-color: rgb(0,126,229) ;
+    border-radius: 10px;
+}
+.bttn button a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica, ;
+    font-style: normal;
+    color: rgb(253,254,255);
+}
+/* image2 ends here */
+
+/* manu start here */
+.manu{
+    width: 100%;
+    height: 49vh;
+}
+.jump{
+    width: 50px;
+    margin-left: 15px;
+}
+.jump h2{
+   width: 100px;
+   margin-top: 70px;
+   font-size: 24px;
+   font-family: Arial, Helvetica,;
+   font-weight: bold;
+   font-style: normal;
+}
+.dropdown2{
+    margin-left: 95px;
+    margin-top: -30px;
+}
+#box2{
+    height: 35px;
+    width: 250px;
+    font-size: 17px;
+    border-radius: 5px;
+}
+.Best{
+    width: 200px;
+    height: 14vh;
+    margin-left: 15px;
+    margin-top: 70px;
+}
+.Best h3{
+    width: 300px;
+    font-size: 30px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.Best p{
+    width: 350px;
+    margin-top: 30px;
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+}
+/* manu ends here */
+
+/* card 1 styling start here */
+.img-fluids{
+    width: 350px;
+    height:45vh ;
+    margin-left: 35px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body{
+    width: 350px;
+    height: 80vh;
+    margin-left: 35px;
+    margin-top: 1px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned{
+    width: 300px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned h2{
+    width: 100px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.Redesigned p{
+    width: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: rgb(0,126,229);
+}
+.Redesigned h3{
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.Redesigned h3 b{
+    font-size: 35px;
+}
+.Redesigned h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan{
+    width: 300px;
+    height: 10vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan p{
+    font-size: 20px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan h2{
+    margin-top: 7px;
+}
+.Nissan h2 a{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan hr{
+    width: 100%;
+    margin-top: 9px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP{
+    width: 200px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 190px;
+}
+.MSRP h2{
+    margin-top: -5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP p{
+    margin-top: 10px;
+    font-size: 21px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP h3{
+    margin-left: 200px;
+    margin-top: -80px;
+    font-weight: lighter;
+}
+.MSRP h3 b{
+    margin-left: 20px;
+}
+.MSRP h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox{
+    width: 200px;
+    height: 14vh;
+    margin-left: 220px;
+    margin-top: 6px;
+}
+.checkbox input{
+    font-size: 30px;
+}
+.checkbox label{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card1 styling ends here */
+
+/* card 1 small styling start here */
+.card-small{
+    width: 200px;
+    height: 57vh;
+}
+.small{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in h3{
+    margin-top: 10px;
+}
+.Redesigned-in h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h0 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP1{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP1 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP1 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP1 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP1 h3 b{
+    margin-left: 20px;
+}
+.MSRP1 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs0{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs0 input{
+    font-size: 20px;
+}
+.checkboxs0 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 1 small styling ends */
+
+
+/* 2nd card 1 small styling start here */
+.card-small2{
+    width: 200px;
+    height: 57vh;
+}
+.small2{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager2 img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager2 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes2{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in2 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 h3{
+    margin-top: 10px;
+}
+.Redesigned-in2 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in2 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h02 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP12{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP12 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP12 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP12 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP12 h3 b{
+    margin-left: 20px;
+}
+.MSRP12 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs02{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs02 input{
+    font-size: 20px;
+}
+.checkboxs02 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn02{
+    width: 100px;
+    height: 14vh;
+    margin-top: 30px;
+}
+.buttn02 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 200px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn02 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+/* 2nd card 1 small styling ends */
+
+/* card 2 styling start here */
+.img-fluids2{
+    width: 350px;
+    height:45vh ;
+    margin-left: 35px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body2{
+    width: 350px;
+    height: 80vh;
+    margin-left: 35px;
+    margin-top: 1px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned2{
+    width: 300px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned2 h2{
+    width: 100px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.Redesigned2 p{
+    width: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: rgb(0,126,229);
+}
+.Redesigned2 h3{
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.Redesigned2 h3 b{
+    font-size: 35px;
+}
+.Redesigned2 h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan2{
+    width: 300px;
+    height: 10vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan2 p{
+    font-size: 20px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan2 h2{
+    margin-top: 7px;
+}
+.Nissan2 h2 a{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan2 hr{
+    width: 100%;
+    margin-top: 9px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP2{
+    width: 200px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 190px;
+}
+.MSRP2 h2{
+    margin-top: -5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP2 p{
+    margin-top: 10px;
+    font-size: 21px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP2 h3{
+    margin-left: 200px;
+    margin-top: -80px;
+    font-weight: lighter;
+}
+.MSRP2 h3 b{
+    margin-left: 20px;
+}
+.MSRP2 h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox2{
+    width: 200px;
+    height: 14vh;
+    margin-left: 220px;
+    margin-top: 6px;
+}
+.checkbox2 input{
+    font-size: 30px;
+}
+.checkbox2 label{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 2 styling ends here */
+
+/* card 2 small styling start here */
+.card-small02{
+    width: 200px;
+    height: 57vh;
+}
+.small02{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager02 img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager02 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes02{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in02 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 h3{
+    margin-top: 10px;
+}
+.Redesigned-in02 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in02 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h002 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP102{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP102 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP102 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP102 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP102 h3 b{
+    margin-left: 20px;
+}
+.MSRP102 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs002{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs002 input{
+    font-size: 20px;
+}
+.checkboxs002 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 2 small styling ends */
+
+
+/* 2nd card 2 small styling start here */
+.card-small3{
+    width: 200px;
+    height: 57vh;
+}
+.small3{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager3 img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager3 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes3{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in3 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 h3{
+    margin-top: 10px;
+}
+.Redesigned-in3 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in3 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h03 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP13{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP13 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP13 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP13 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP13 h3 b{
+    margin-left: 20px;
+}
+.MSRP13 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs03{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs03 input{
+    font-size: 20px;
+}
+.checkboxs03 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn03{
+    width: 100px;
+    height: 14vh;
+    margin-top: 30px;
+}
+.buttn03 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 200px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn03 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+/* 2nd card 2 small styling ends */
+
+/* card 3 styling start here */
+.img-fluids3{
+    width: 350px;
+    height:45vh ;
+    margin-left: 35px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.card-body3{
+    width: 350px;
+    height: 80vh;
+    margin-left: 35px;
+    margin-top: 1px;
+    padding-top: 20px;
+    background-color: rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px rgba(12, 4, 4, 0.404);
+}
+.Redesigned3{
+    width: 300px;
+    height: 20vh;
+    margin-left: 30px;
+    background-color: rgb(240,246,255);
+    border-radius: 20px;
+}
+.Redesigned3 h2{
+    width: 100px;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+.Redesigned3 p{
+    width: 100px;
+    margin-top: 10px;
+    padding-left: 10px;
+    font-size: 20px;
+    color: rgb(0,126,229);
+}
+.Redesigned3 h3{
+    margin-left: 200px;
+    margin-top: -100px;
+}
+.Redesigned3 h3 b{
+    font-size: 35px;
+}
+.Redesigned3 h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica;
+    font-style: normal;
+}
+.Nissan3{
+    width: 300px;
+    height: 10vh;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.Nissan3 p{
+    font-size: 20px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal; 
+}
+.Nissan3 h2{
+    margin-top: 7px;
+}
+.Nissan3 h2 a{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+    color: rgb(0,126,229) ;
+}
+.Nissan3 hr{
+    width: 100%;
+    margin-top: 9px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP3{
+    width: 200px;
+    height: 14vh;
+    margin-left: 30px;
+    margin-top: 190px;
+}
+.MSRP3 h2{
+    margin-top: -5px;
+    font-size: 25px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP3 p{
+    margin-top: 10px;
+    font-size: 21px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.MSRP3 h3{
+    margin-left: 200px;
+    margin-top: -80px;
+    font-weight: lighter;
+}
+.MSRP3 h3 b{
+    margin-left: 20px;
+}
+.MSRP3 h4{
+    margin-left: 200px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkbox3{
+    width: 200px;
+    height: 14vh;
+    margin-left: 220px;
+    margin-top: 6px;
+}
+.checkbox3 input{
+    font-size: 30px;
+}
+.checkbox3 label{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 3 styling ends here */
+
+/* card 3 small styling start here */
+.card-small03{
+    width: 200px;
+    height: 57vh;
+}
+.small03{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager03 img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager03 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes03{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in03 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 h3{
+    margin-top: 10px;
+}
+.Redesigned-in03 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in03 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h003 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP103{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP103 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP103 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP103 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP103 h3 b{
+    margin-left: 20px;
+}
+.MSRP103 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs003{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs003 input{
+    font-size: 20px;
+}
+.checkboxs003 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+/* card 3 small styling ends */
+
+
+/* 2nd card 3 small styling start here */
+.card-small4{
+    width: 200px;
+    height: 57vh;
+}
+.small4{
+    width: 350px;
+    height: 60vh;
+    margin-left: 35px;
+    margin-top: 65px;
+    background-color:rgb(255,255,255);
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(46, 45, 45);
+}
+.imager4 img{
+    width: 150px;
+    height: 23vh;
+    padding-left: 20px;
+    padding-top: 5px;
+}
+.imager4 h1{
+    width: 10%;
+    height: 5vh;
+    font-size: 17px;
+    padding-left: 10px;
+    padding-top: 5px;
+    background-color: rgb(21,97,212);
+    color: white;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.redes4{
+    width: 150px;
+    margin-left: 200px;
+    margin-top: -165px;
+}
+.Redesigned-in4 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 p{
+    margin-top: 5px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 h3{
+    margin-top: 10px;
+}
+.Redesigned-in4 h3 b{
+    font-size: 25px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Redesigned-in4 h4{
+    margin-top: 40px;
+    font-size: 16px;
+    font-family: Arial,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.h04 hr{
+    width: 320px;
+    margin-left: 10px;
+    margin-top: 36px;
+    font-weight: lighter;
+    color: rgb(230,230,230);
+}
+.MSRP14{
+    width: 150px;
+    height: 14vh;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+.MSRP14 h2{
+    font-size: 20px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP14 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.MSRP14 h3{
+    margin-left: 230px;
+    margin-top: -67px;
+    font-weight: lighter;
+}
+.MSRP14 h3 b{
+    margin-left: 20px;
+}
+.MSRP14 h4{
+    margin-left: 290px;
+    margin-top: 10px;
+    font-weight: lighter;
+}
+.checkboxs04{
+    width: 100px;
+    margin-left: 237px;
+    margin-top: 9px;
+}
+.checkboxs04 input{
+    font-size: 20px;
+}
+.checkboxs04 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.buttn04{
+    width: 100px;
+    height: 14vh;
+    margin-top: 30px;
+}
+.buttn04 button{
+    width: 150px;
+    height: 6vh;
+    margin-left: 200px;
+    background-color: rgb(21,97,212);
+    border-radius: 10px;
+    border-color: white;
+}
+.buttn04 button a{
+    font-size: 21px;
+    text-decoration: none;
+    color: white;
+}
+/* 2nd card 3 small styling ends */
+
+.Best04{
+    height: 25vh;
+    margin-left: 35px;
+    margin-top: 100px;
+}
+.Best04 h3{
+    font-size: 30px;
+    font-family: Arial, Helvetica,;
+    font-weight: bold;
+    font-style: normal;
+}
+.Best04 p{
+    margin-top: 10px;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+}
+.Email04{
+    width: 100px;
+    margin-left: 35px;
+    margin-top: -70px;
+}
+.Email04 label{
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-weight: lighter;
+    font-style: normal;
+}
+.Email04 input{
+    height: 35px;
+   border-bottom-left-radius: 10px;
+   border-top-left-radius: 10px;
+    border-right: 5px;
+    border-width: 2px;
+}
+.sign04{
+    width: 100px;
+    margin-left: 198px;
+    margin-top: -39px;
+}
+.sign04 button{
+    height:39px ;
+    border-left: 10px;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+    background-color: rgb(21,97,212);
+}
+.sign04 button a{
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Arial, Helvetica,;
+    font-style: normal;
+    color: white;
+}
+
+}
